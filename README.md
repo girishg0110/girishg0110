@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @girishg0110
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<strong>Hi there, I'm Girish! 👋</strong>
 
-<!---
-girishg0110/girishg0110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about the potential of 
+<strong>
+* machine learning and AI 🦾 
+* combined with alternative modes of computation (i.e. quantum ⚗️)
+</strong>
+to change our world.
+
+I'm excited by opportunities to learn and apply my knowledge to new technical challenges, whether they be 
+<strong>
+* training NLP models 📢 
+* developing Android applications 💚 
+* or developing CS + physics curricula for young minds 🧠
+</strong>
+
+If you're interested in collaborating on an open-source project, <strong>reach out to me on <a href=https://www.linkedin.com/in/girish-ganesan-9801>Linkedin</a></strong>!
