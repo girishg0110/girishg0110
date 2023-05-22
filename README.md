@@ -1,4 +1,4 @@
-<strong>Hi there, I'm Girish, a junior CS/math student at Rutgers! 👋</strong>
+<strong>Hi there, I'm Girish, a senior CS/math student at Rutgers! 👋</strong>
 
 I'm passionate about the potential of 
 <strong>
